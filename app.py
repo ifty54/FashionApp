@@ -3,7 +3,7 @@ import streamlit as st
 
 # Add your HTML code for the logo and layout
 header_html = """
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 1rem;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 2rem;">
     <div>
         <img src="https://scontent.fdac107-1.fna.fbcdn.net/v/t39.30808-6/351555268_3500384293553481_6829862043413033893_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEqDngsem-Wd5a1PnDBP8PY4Pg152UhAPzg-DXnZSEA_HqeFXx3DXqBQIk5TfTdA0vDYwQzefJHKwR6tJ6Y3off&_nc_ohc=TjAvaPNadfQAX8NSkLc&_nc_ht=scontent.fdac107-1.fna&oh=00_AfDB02dV7ud_3U68ZY9A0lmslanG__E-LouxEeX0JKVqoQ&oe=65EDBCB9" style="width: 500px;">
     </div>
